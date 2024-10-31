@@ -63,6 +63,16 @@ author: zarttic, xk2013
 
     ![cp-judge-4](images/cp-judge-4.png)
 
+    同时，CP Editor 可以非常方便的进行大样例的测试，可以直接导入成对的测试点。
+
+    当然也可以进行对拍：将造好数据之导入 CP Editor，先在 CP Editor 中编译运行暴力程序，再执行 “更多-将输出复制到答案”，放入程序验证即可。
+
+    ![cp-judge-5](images/cp-judge-5.png)
+
+    对于 Special Judge 的题目，可以使用 CP Editor 自带的一些常见 checker，如 "nyesno - 匹配 YES 和 NO，大小写不敏感"，也可以自己导入 checker 进行评测。
+
+    ![cp-judge-6](images/cp-judge-6.png)
+
 ## 参考资料
 
 [^compiler]: [编译器 - OI Wiki](../compiler.md)
